@@ -1,7 +1,6 @@
 ---
 label: defauly
 hide_body: false
-display_field: name
 fields:
 - type: image_gallery
   default:
